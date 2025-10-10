@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//Microsoft Corporation//Outlook 11.0 MIMEDIR//EN
+BEGIN:VEVENT
+UID:6220680896df1b894
+DTSTAMP:20250423T072935Z
+DTSTART:20250424T153000Z
+DTEND:20250424T203000Z
+SUMMARY:Cisco U. Spotlight
+LOCATION:https://vshow.on24.com/vshow/Cisco_U_Spotlight/lobby/21505
+DESCRIPTION:Event: Cisco U. Spotlight\n\nLearn. Connect. Innovate.\n\nDon’t miss this fantastic opportunity to thrive in your current role—while you build the skills of the future and connect with your Cisco community.\n\nDate: Wednesday\, April 24\, 2025\n\nTime: 8:30 a.m. Pacific Time | 11:30 a.m. Eastern Time | 4:30 p.m. British Summer Time | 9:00 p.m. India Time\n\nEvent Link: https://vshow.on24.com/vshow/Cisco_U_Spotlight/lobby/21505
+END:VEVENT
+END:VCALENDAR
